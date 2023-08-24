@@ -1,12 +1,6 @@
 # TVL-APY-CALCULATOR
 
-Sure, here's a sample GitHub README file for your Next.js project that includes information about your code and how to use it:
-
----
-
-# Project Name
-
-Welcome to Project Name! This is a Next.js project that fetches data from an API and calculates TVL (Total Value Locked) and APY (Annual Percentage Yield) for a Balancer pool.
+Welcome to TVL-APY-CALCULATOR! This is a Next.js project that fetches data from an API and calculates TVL (Total Value Locked) and APY (Annual Percentage Yield) for a Balancer pool.
 
 ## Table of Contents
 
