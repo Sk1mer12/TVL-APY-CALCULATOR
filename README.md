@@ -38,13 +38,13 @@ npm install
 
 1. Replace the API URL in the `useEffect` hooks with the correct URL for your Balancer pool.
 
-2. To start the development server, run:
+2. Run your docker application.
+   
+3. To start the development server, run:
 
 ```bash
 npm run dev
 ```
-3. Run your docker application.
-
 4. Open your web browser and go to `http://localhost:3000` to see the application in action.
 
 ## Contributing
