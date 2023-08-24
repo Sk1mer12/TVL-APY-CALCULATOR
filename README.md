@@ -43,8 +43,9 @@ npm install
 ```bash
 npm run dev
 ```
+3. Run your docker application.
 
-3. Open your web browser and go to `http://localhost:3000` to see the application in action.
+4. Open your web browser and go to `http://localhost:3000` to see the application in action.
 
 ## Contributing
 
